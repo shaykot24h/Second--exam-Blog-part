@@ -1,4 +1,5 @@
 @media (max-width: 991.98px) {
+  /*======== Navber part css =========*/
   .navbar_item {
     padding: 20px;
     background-color: #7777;
@@ -9,20 +10,32 @@
     text-align: center;
     margin-top: 20px;
   }
+  /*======== Navber part css =========*/
+  /*======== Lunar part css =========*/
   .lunarLeft__title {
     font-size: 44px;
   }
   .lunarLeft__summary {
     text-align: center;
-    font-size: 18px;
+    font-size: 17px;
   }
   .lunarLeft__btn {
-    margin-top: 61px;
-    margin-left: 191px;
+    border-radius: 23px;
+    font-size: 20px;
+    width: 266px;
+    height: 82px;
+    padding: 26px 32px;
   }
   .lunarCustom {
     margin-top: 30px;
   }
+  /*======== Lunar part css =========*/
+  /*======== Cart part css =========*/
+  .stcart {
+    margin-top: 40px;
+  }
+  /*======== Cart part css =========*/
+  /*======== Footer part css =========*/
   .footerItem1st {
     padding: 0 3px 0 3px;
   }
@@ -36,9 +49,6 @@
   .Item3Custom {
     padding-left: 18px;
     padding-right: 0px;
-  }
-  .stcart {
-    margin-top: 40px;
   }
   .footerCustomrow {
     width: 100%;
@@ -58,4 +68,5 @@
   .Item4Custom {
     margin-right: 0px;
   }
+  /*======== Footer part css =========*/
 }

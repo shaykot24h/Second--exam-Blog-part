@@ -1,0 +1,27 @@
+@media (max-width: 575.98px) {
+  /*======== Navber part css =========*/
+  .navlogoImg {
+    margin-left: 20px;
+  }
+  /*======== Navber part css =========*/
+  /*======== Cart part css =========*/
+  .blogcart1__title {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  /*======== Cart part css =========*/
+  /*======== Footer part css =========*/
+  .footerItem1st {
+    margin-left: 20px;
+  }
+  .footerItem2nd {
+    margin-left: 22px;
+  }
+  .Item3Custom {
+    margin-left: 0px;
+  }
+  .Item4Custom {
+    margin-left: -32px;
+  }
+  /*======== Footer part css =========*/
+}
