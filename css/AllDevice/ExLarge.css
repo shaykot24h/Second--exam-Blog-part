@@ -1,0 +1,25 @@
+@media (max-width: 1199.98px) {
+  .navbar_item {
+    margin-right: 12px;
+  }
+  .customrow {
+    margin: 100px 41px;
+  }
+  .bannerToppart {
+    margin-left: 77px;
+  }
+  .lunarLeft__summary {
+    text-align: justify;
+    font-size: 20px;
+  }
+  .lunarLeft__btn {
+    margin-top: 74px;
+    margin-left: 72px;
+  }
+  .footerItem1st {
+    padding: 0 35px 0 40px;
+  }
+  .fticons i {
+    margin-top: 31px;
+  }
+}

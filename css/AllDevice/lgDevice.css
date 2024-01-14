@@ -1,0 +1,61 @@
+@media (max-width: 991.98px) {
+  .navbar_item {
+    padding: 20px;
+    background-color: #7777;
+    margin-top: 10px;
+    text-align: center;
+  }
+  .navbtn {
+    text-align: center;
+    margin-top: 20px;
+  }
+  .lunarLeft__title {
+    font-size: 44px;
+  }
+  .lunarLeft__summary {
+    text-align: center;
+    font-size: 18px;
+  }
+  .lunarLeft__btn {
+    margin-top: 61px;
+    margin-left: 191px;
+  }
+  .lunarCustom {
+    margin-top: 30px;
+  }
+  .footerItem1st {
+    padding: 0 3px 0 3px;
+  }
+  .footerItem2nd {
+    margin-left: 27px;
+  }
+  .Item2Custom {
+    margin-left: 20px;
+    padding-left: 0px;
+  }
+  .Item3Custom {
+    padding-left: 18px;
+    padding-right: 0px;
+  }
+  .stcart {
+    margin-top: 40px;
+  }
+  .footerCustomrow {
+    width: 100%;
+    margin-left: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .footerItem2 li a {
+    font-size: 14px;
+  }
+  .footerItem1__details {
+    font-size: 14px;
+  }
+  .footerLeftlogo {
+    width: 100%;
+  }
+  .Item4Custom {
+    margin-right: 0px;
+  }
+}
