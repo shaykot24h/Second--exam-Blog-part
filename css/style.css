@@ -124,6 +124,9 @@ body {
 #banner_part {
   padding: 134px 0;
   background: url(../images/bannerBg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   background-color: #faf6ff;
 }
 .bannerToppart__title {
@@ -298,6 +301,7 @@ body {
 ==============================================*/
 #footer_part {
   background: url(../images/footerbg.png);
+  background-size: cover;
   padding: 494px 0 80px 0;
 }
 .footerItem1st {
